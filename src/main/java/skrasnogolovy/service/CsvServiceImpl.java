@@ -86,6 +86,9 @@ public class CsvServiceImpl implements CsvService {
 //перемещение файла
         File oldDestination = new File(documentsPath, fileName);
         File newDestination = new File(documentsPath + destinationFolder, fileName);
+        if(newDestination.exists()) {
+            newDestination.delete();
+        }
         Boolean fileReanameStatus = oldDestination.renameTo(newDestination);
         returnMap.put(true, fileReanameStatus);
         return returnMap;
@@ -133,6 +136,9 @@ public class CsvServiceImpl implements CsvService {
 
         File oldDestination = new File(documentsPath, fileName);
         File newDestination = new File(documentsPath + destinationFolder, fileName);
+        if(newDestination.exists()) {
+            newDestination.delete();
+        }
         Boolean fileReanameStatus = oldDestination.renameTo(newDestination);
         returnMap.put(true, fileReanameStatus);
         return returnMap;
