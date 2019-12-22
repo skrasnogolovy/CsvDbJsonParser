@@ -1,0 +1,24 @@
+22-12-2019 17:14:28.377 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarting': Starting CsvLoadControllerTest on DESKTOP-1EJH740 with PID 11192 (started by skras in C:\Users\skras\IdeaProjects\CsvDbJsonParser)
+22-12-2019 17:14:28.382 [main] !DEBUG! 's.controllers.CsvLoadControllerTest.logStarting': Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+22-12-2019 17:14:28.399 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStartupProfileInfo': No active profile set, falling back to default profiles: default
+22-12-2019 17:14:52.979 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarted': Started CsvLoadControllerTest in 27.007 seconds (JVM running for 31.33)
+22-12-2019 17:22:10.151 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarting': Starting CsvLoadControllerTest on DESKTOP-1EJH740 with PID 9796 (started by skras in C:\Users\skras\IdeaProjects\CsvDbJsonParser)
+22-12-2019 17:22:10.158 [main] !DEBUG! 's.controllers.CsvLoadControllerTest.logStarting': Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+22-12-2019 17:22:10.163 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStartupProfileInfo': No active profile set, falling back to default profiles: default
+22-12-2019 17:22:36.763 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarted': Started CsvLoadControllerTest in 29.073 seconds (JVM running for 33.693)
+22-12-2019 17:41:45.710 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarting': Starting CsvLoadControllerTest on DESKTOP-1EJH740 with PID 3384 (started by skras in C:\Users\skras\IdeaProjects\CsvDbJsonParser)
+22-12-2019 17:41:45.725 [main] !DEBUG! 's.controllers.CsvLoadControllerTest.logStarting': Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+22-12-2019 17:41:45.739 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStartupProfileInfo': No active profile set, falling back to default profiles: default
+22-12-2019 17:42:09.712 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarted': Started CsvLoadControllerTest in 26.42 seconds (JVM running for 30.343)
+22-12-2019 18:05:17.147 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarting': Starting CsvLoadControllerTest on DESKTOP-1EJH740 with PID 13324 (started by skras in C:\Users\skras\IdeaProjects\CsvDbJsonParser)
+22-12-2019 18:05:17.153 [main] !DEBUG! 's.controllers.CsvLoadControllerTest.logStarting': Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+22-12-2019 18:05:17.163 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStartupProfileInfo': No active profile set, falling back to default profiles: default
+22-12-2019 18:05:40.429 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarted': Started CsvLoadControllerTest in 25.755 seconds (JVM running for 29.907)
+22-12-2019 18:08:06.372 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarting': Starting CsvLoadControllerTest on DESKTOP-1EJH740 with PID 12100 (started by skras in C:\Users\skras\IdeaProjects\CsvDbJsonParser)
+22-12-2019 18:08:06.387 [main] !DEBUG! 's.controllers.CsvLoadControllerTest.logStarting': Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+22-12-2019 18:08:06.390 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStartupProfileInfo': No active profile set, falling back to default profiles: default
+22-12-2019 18:08:29.267 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarted': Started CsvLoadControllerTest in 25.751 seconds (JVM running for 30.393)
+22-12-2019 18:12:52.037 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarting': Starting CsvLoadControllerTest on DESKTOP-1EJH740 with PID 14672 (started by skras in C:\Users\skras\IdeaProjects\CsvDbJsonParser)
+22-12-2019 18:12:52.048 [main] !DEBUG! 's.controllers.CsvLoadControllerTest.logStarting': Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+22-12-2019 18:12:52.052 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStartupProfileInfo': No active profile set, falling back to default profiles: default
+22-12-2019 18:13:22.141 [main] !INFO ! 's.controllers.CsvLoadControllerTest.logStarted': Started CsvLoadControllerTest in 32.511 seconds (JVM running for 36.636)
